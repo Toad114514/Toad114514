@@ -7,6 +7,8 @@
 [![githubs](https://img.shields.io/badge/Github-black?logo=github&style=flat-square)](https://github.com/toad114514) [![Static Badge](https://img.shields.io/badge/Gitee-171717?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/toadstool) [![Static Badge](https://img.shields.io/badge/kuaishou-grey?style=flat-square&logo=kuaishou&logoColor=FF4906)](https%3A%2F%2Fwww.kuaishou.com%2Fprofile%2F3xn57ehqqzfdqie)<br>
 ![GitHub User's stars](https://img.shields.io/github/stars/toad114514)
 ![GitHub followers](https://img.shields.io/github/followers/toad114514)
+![​Profile visits​]​(https://komarev.com/ghpvc/?username=toad114514&style=flat-square)
+
 ## 关于我自己
 从某个粤西拥有 **大量山卡拉地区的城市** 来的初二low炮，写出的代码没啥经验就是拉<br>
 个人喜欢玩游戏/写代码/搞Termux(家里没电脑)，是有规律的英语单词识别组合组织创建者 ~~（俗称写代码）~~ <br>
