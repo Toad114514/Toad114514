@@ -8,12 +8,12 @@ on:
 
 jobs:
   generator:
-    name: "generator somegoodthing"
+    name: "Generator / 每日更新高级小🐍蛇"
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: "Generator Contributions Grid Snake"
+      - name: "🐍 Generator Contributions Grid Snake"
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -26,32 +26,35 @@ jobs:
         run: |
            cat << EOF > build/README.md
            # Action Readme.md info
-           托管于 Github Action 用来托管一些有趣的东西
-           **每日 0 点/仓库有push时生成**
-           主要就是生成一个 Contributions Grid Snake SVG 到仓库罢了
+           托管于 Github Action 用来托管一些有趣的东西 <br>
+           **每日 0 点/仓库有push时生成** <br>
+           主要就是生成一个 Contributions Grid Snake SVG <br>
            # Action 信息
-           最近的 Action 更新日期：$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S') (UTC+8)
-           最近 Action 状态：![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/toad114514/toad114514/good.yaml)
-           转至 [good.yaml](https://github.com/Toad114514/Toad114514/edit/main/.github/workflows/good.yaml) 查看 Action 配置
+           最近的 Action 更新日期：$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S') (UTC+8) <br>
+           最近 Action 状态：![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/toad114514/toad114514/good.yaml) <br>
+           转至 [good.yaml](https://github.com/Toad114514/Toad114514/edit/main/.github/workflows/good.yaml) 查看 Action 配置 <br>
            **:) Email!(bushi**
            EOF
-           echo "[OK ] README.md is generated."
-           echo "[IFO] $(pwd)'s Directory tree:"
+           echo "[OK ] README.md 已新建"
+           echo "[OK ] README.md is generated"
+           echo "[IFO] $(pwd)'s Directory tree \ 目录树:"
            echo "================================="
            tree .
            echo "================================="
+           echo "[OK ] 准备 Push 到 action 分支.......(114514%)"
            echo "[OK ] Ready for Push to action branch......."
       # push
-      - name: "push to action branch"
+      - name: "Push to branch 💪"
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: action
           build_dir: build
           keep_history: ${{ !inputs.force_push_to_output_branch }}
           commit_message: |
-            Update New Action [action]
+            Update [action]
 
             Update New Contributions grid snake
-            low炮, you can use it!
+            更新了最近的 Github 热力图表格贪吃蛇 for toad114514
+            low炮，you can use it!
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
