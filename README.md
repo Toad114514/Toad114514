@@ -24,17 +24,24 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
  <summary>Q: 怎么你没电脑能玩 Arch 和 Ubuntu 的？</summary>
  <p>A: Termux proot</p>
 </details>
-<details>
-   <summary>Termux neofetch</summary>
-</details>
-<details>
-   <summary>主力机</summary>
-</details>
-<details>
-   <summary>最近常玩游戏</summary>
-</details>
 
 ## 活跃仓库
 
 <a href="https://github.com/toad114514/staxle">
 <img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=staxle&theme=default"/></a>
+
+## 其他玩意
+
+<details>
+   <summary>Termux neofetch</summary>
+   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-25-13.jpg" alt="neofetch"/>
+</details>
+<details>
+   <summary>主力机</summary>
+   <p>不怕炸所以敢用oppoa5</p>
+   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-38-38.jpg" alt="devcheck"/>
+</details>
+<details>
+   <summary>最近常玩游戏</summary>
+   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-57-72.jpg" alt="recentPlay"/>
+</details>
