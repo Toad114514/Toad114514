@@ -10,26 +10,49 @@ jobs:
   generator:
     name: "generator somegoodthing"
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: "Generator C什么玩意 Snake"
+      - name: "Generator Contributions Grid Snake"
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
+            build/github-snake.svg
+            build/github-snake-dark.svg?palette=github-dark
+            build/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      # readme
+      - name: "Generator Readme.md"
+        shell: bash
+        run: |
+           cat << EOF > build/README.md
+           # Action Readme.md info
+           托管于 Github Action 用来托管一些有趣的东西
+           **每日 0 点/仓库有push时生成**
+           主要就是生成一个 Contributions Grid Snake SVG 到仓库罢了
+           # Action 信息
+           最近的 Action 更新日期：$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S') (UTC+8)
+           最近 Action 状态：![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/toad114514/toad114514/good.yaml)
+           转至 [good.yaml](https://github.com/Toad114514/Toad114514/edit/main/.github/workflows/good.yaml) 查看 Action 配置
+           **:) Email!(bushi**
+           EOF
+           echo "[OK ] README.md is generated."
+           echo "[IFO] $(pwd)'s Directory tree:"
+           echo "================================="
+           tree .
+           echo "================================="
+           echo "[OK ] Ready for Push to action branch......."
+      # push
       - name: "push to action branch"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: action
-          build_dir: dist
+          build_dir: build
           keep_history: ${{ !inputs.force_push_to_output_branch }}
           commit_message: |
-            New Snake Grid SVG [action]
+            Update New Action [action]
 
             Update New Contributions grid snake
             low炮, you can use it!
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
