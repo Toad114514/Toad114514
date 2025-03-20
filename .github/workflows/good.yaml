@@ -54,7 +54,6 @@ jobs:
             Update [action]
 
             Update New Contributions grid snake
-            更新了最近的 Github 热力图表格贪吃蛇 for toad114514
-            low炮，you can use it!
+            更新了为 toad 提供的 Github 热力图表格贪吃蛇
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
