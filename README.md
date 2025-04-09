@@ -27,25 +27,25 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
 
 ## 活跃仓库
 
-<a href="https://github.com/toad114514/staxle">
-<img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=staxle&theme=default"/></a>
+<a href="https://github.com/toad114514/tpaxs">
+<img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=tpaxs&theme=default"/></a>
 
 ## 其他玩意
 
 <div align="center"/>
-<img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/action/gsnake-dark.svg" alt="snake"/>
+<img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/action/gsnake-dark.svg" alt="snake"/>
  <i>来玩贪吃蛇罢(喜</i>
 </div>
 <details>
    <summary>Termux neofetch</summary>
-   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-25-13.jpg" alt="neofetch"/>
+   <img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-25-13.jpg" alt="neofetch"/>
 </details>
 <details>
    <summary>主力机</summary>
    <p>不怕炸所以敢用oppoa5</p>
-   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-38-38.jpg" alt="devcheck"/>
+   <img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-38-38.jpg" alt="devcheck"/>
 </details>
 <details>
    <summary>最近常玩游戏</summary>
-   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-57-72.jpg" alt="recentPlay"/>
+   <img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-57-72.jpg" alt="recentPlay"/>
 </details>
