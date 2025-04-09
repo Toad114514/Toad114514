@@ -1,6 +1,6 @@
 ## 欢迎 \ Welcome
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E78F2&center=true&random=true&width=435&lines=%E8%9F%B9bro+what+can+i+say;print(%22Hello%2C+world!%22);oh-my-soulknight!%E6%88%91%E4%BB%AC%E9%A2%86%E4%B8%BB%E7%8E%A9%E5%AE%B6%E6%9C%80nb(wu;a+low%E7%82%AE+use+termux+well%2C+that's+me;%E9%AD%94%E6%80%94%E6%B2%A1%E6%9C%89%E9%80%9A%E5%A4%A9%E8%B7%AF;%5Blaoye%40localhost+%5D%3A)]"/>
+<img src="https://readme-typing-svg.demolab.com/demo/?center=true&lines=SMM2+toad+is+sleeping...;%E6%9C%80%E5%96%9C%E6%AC%A2%E5%B0%8F%E6%98%9F%E9%87%8E%E4%BA%86~;termux+is+all+my+life((;%E5%85%83%E6%B0%94%E7%89%A2%E4%B9%9D%E9%97%A8%E8%A6%81%E5%8A%A0%E5%BC%BA%E4%BA%86%E5%90%97%EF%BC%9F%E5%85%B6%E5%AE%9E%E6%98%AF%E7%AD%96%E5%88%92%E7%94%BB%E5%A4%A7%E9%A5%BC;echo+%22Hello%2C+World!%22"/>
 
 
 [![Toad114514's GitHub stats](https://github-readme-stats.vercel.app/api?username=toad114514&count_private=true&show_icons=true)](https://github.com/toad114514)<br>
@@ -33,19 +33,19 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
 ## 其他玩意
 
 <div align="center"/>
-<img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/action/gsnake-dark.svg" alt="snake"/>
+<img src="https://raw.github.com/Toad114514/Toad114514/refs/heads/action/gsnake-dark.svg" alt="snake"/>
  <i>来玩贪吃蛇罢(喜</i>
 </div>
 <details>
    <summary>Termux neofetch</summary>
-   <img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-25-13.jpg" alt="neofetch"/>
+   <img src="https://raw.github.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-25-13.jpg" alt="neofetch"/>
 </details>
 <details>
    <summary>主力机</summary>
    <p>不怕炸所以敢用oppoa5</p>
-   <img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-38-38.jpg" alt="devcheck"/>
+   <img src="https://raw.github.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-38-38.jpg" alt="devcheck"/>
 </details>
 <details>
    <summary>最近常玩游戏</summary>
-   <img src="https://raw.bgithub.xyz/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-57-72.jpg" alt="recentPlay"/>
+   <b>现在游戏荒了，没啥游戏玩</b>
 </details>
