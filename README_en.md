@@ -32,6 +32,8 @@ toad this name from **SMM2 ones of the character "Toad"**，The back 114514 numb
 
 ## Active Repo
 
+<a href="https://github.com/toad114514/plugin.video.bilikodi">
+<img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=plugin.video.bilikodi&theme=default"/></a>
 <a href="https://github.com/toad114514/staxle">
 <img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=staxle&theme=default"/></a>
 
