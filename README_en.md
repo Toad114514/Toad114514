@@ -54,5 +54,5 @@ toad this name from **SMM2 ones of the character "Toad"**，The back 114514 numb
 </details>
 <details>
    <summary>Recent Playing</summary>
-   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-57-72.jpg" alt="recentPlay"/>
+   <b>Super tux kart, Minecraft and sm64coopdx.<br>I actually want to try Blue Archive but my phone is root. Not a full hide root environment, i don't want my account is banned forever😭.</b>
 </details>

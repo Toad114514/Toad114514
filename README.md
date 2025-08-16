@@ -53,5 +53,5 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
 </details>
 <details>
    <summary>最近常玩游戏</summary>
-   <b>不就是 STK（Super Tux Kart）、Minecraft 和 sm64coopdx 吗</b><br><b>我很尝试 Blue Archive 但手机的root隐藏没有做完全（只能日常使用）怕被封号所以一直不敢下</b>
+   <b>不就是 STK（Super Tux Kart）、Minecraft 和 sm64coopdx 吗</b><br><b>我很想尝试 Blue Archive 但主力机的root隐藏没有做完全（只能日常使用）怕被封号所以一直不敢下😭</b>
 </details>
