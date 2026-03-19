@@ -3,11 +3,12 @@
 
 
 [![Toad114514's GitHub stats](https://github-readme-stats.vercel.app/api?username=toad114514&count_private=true&show_icons=true)](https://github.com/toad114514)<br>
-[![githubs](https://img.shields.io/badge/Github-black?logo=github&style=flat-square)](https://github.com/toad114514) [![Static Badge](https://img.shields.io/badge/Gitee-171717?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/toadstool) [![Static Badge](https://img.shields.io/badge/kuaishou-grey?style=flat-square&logo=kuaishou&logoColor=FF4906)](https://www.kuaishou.com/profile/xn57ehqqzfdqie)<br>
+[![githubs](https://img.shields.io/badge/Github-black?logo=github&style=flat-square)](https://github.com/toad114514) [![Gitee](https://img.shields.io/badge/Gitee-171717?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/toadstool) [![TDE Translator](https://img.shields.io/badge/Trinity-Translator-blue?style=plastic&logo=weblate)
+](https://mirror.git.trinitydesktop.org/weblate/user/toad114514/) <br>
 ![GitHub User's stars](https://img.shields.io/github/stars/toad114514)
 ![GitHub followers](https://img.shields.io/github/followers/toad114514)
 ![views](https://komarev.com/ghpvc?username=toad114514&style=flat)
-<p><a href="README_en.md">English</a> | <a href="README.md">中文</a></p>
+<p><a href="README_en.md">English</a> | <a href="README.md">中文</a> | <a href="url-social.md">我在哪里混迹?</a></p>
 </div>
 
 ## 关于我自己
