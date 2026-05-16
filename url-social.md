@@ -13,7 +13,6 @@
  - Toad114514/toadXtech in ![githubs](https://img.shields.io/badge/Github-black?logo=github&style=plastic&label=Code) **(You are There!)**
  - Toad114514@toadstool in [![Gitee](https://img.shields.io/badge/Gitee-171717?style=plastic&logo=gitee&logoColor=C71D23&label=Code)](https://gitee.com/toadstool)
  - Toad114514 in [Internet Archive](https://archive.org/details/@toad1145) （来这里观看更多黑历史😱）
- - Toad114514 in [RetroAchievements](https://retroachievements.org/user/toad114514)
  - Toad114514 in [![TDE](https://img.shields.io/badge/Translator-Trinity_Desktop-blue?style=plastic&logo=weblate)](https://mirror.git.trinitydesktop.org/weblate/user/toad114514/) （常驻 Trinity Desktop Environment 简体中文熟肉佬）
  - Toad114514 in [![Static Badge](https://img.shields.io/badge/%E7%82%B9%E4%B8%AA%E7%8C%AB%E7%A4%BE%E5%8C%BA-orange?style=plastic&label=Code)](https://shequ.codemao.cn/mobile/user/16551623)
  - 如果可以也能通过 Email callme：[邮箱（大号）](mailto:xiaolan2332821@163.com)
@@ -22,7 +21,8 @@ and [邮箱（小号）](mailto:fakelanjian@outlook.com)
 ### 然后还玩了些没什么用的游戏。
  - zhazhajun666958 in **Minecraft Bedrock**
  - toadXtech in **Blue Archive（国服）**
- - toad114514 in **明日方舟终末地**
+ - Toad114514 in [RetroAchievements](https://retroachievements.org/user/toad114514)
+ - toad114514 in **明日方舟终末地（暂退）**
  - toad114514 in **SMM:WE & OpenCourseWorld**
  - toad114514 in **I wanna be the creator（半退）**
  - toad114514 in **元气骑士前传（退坑）**
