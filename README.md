@@ -54,5 +54,5 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
 </details>
 <details>
    <summary>最近常玩游戏</summary>
-   <b>终末地启动，，。</b>
+   <b>无</b>
 </details>
