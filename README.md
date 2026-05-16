@@ -30,13 +30,6 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
  <p>？！什么玩意长难句起手</p>
 </details>
 
-## 活跃仓库
-
-<a href="https://github.com/toad114514/plugin.video.bilikodi">
-<img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=plugin.video.bilikodi&theme=default"/></a>
-<a href="https://github.com/toad114514/tpaxs">
-<img src="https://github-readme-stat.vercel.app/api/pin/?username=toad114514&repo=tpaxs&theme=default"/></a>
-
 ## 其他玩意
 
 <div align="center"/>
