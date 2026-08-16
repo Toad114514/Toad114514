@@ -7,6 +7,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/toad114514)
 ![GitHub followers](https://img.shields.io/github/followers/toad114514)
 ![views](https://komarev.com/ghpvc?username=toad114514&style=flat)
+<i>Thiis page is outdated,,,,.</i>
 <p><a href="README_en.md">English</a> | <a href="README.md">中文</a></p>
 </div>
 
