@@ -3,7 +3,8 @@
 
 
 [![Toad114514's GitHub stats](https://github-readme-stats.vercel.app/api?username=toad114514&count_private=true&show_icons=true)](https://github.com/toad114514)<br>
-[![githubs](https://img.shields.io/badge/Github-black?logo=github&style=flat-square)](https://github.com/toad114514) [![Gitee](https://img.shields.io/badge/Gitee-171717?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/toadstool) [![TDE Translator](https://img.shields.io/badge/Trinity-Translator-blue?style=plastic&logo=weblate)
+[![githubs](https://img.shields.io/badge/Github-black?logo=github&style=flat-square)](https://github.com/toad114514) [![Gitee](https://img.shields.io/badge/Gitee-171717?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/toadstool) [![Bilibili](https://img.shields.io/badge/Bilibili-pink?style=plastic&logo=bilibili)
+ ](https://space.bilibili.com/3494381151586530) [![TDE Translator](https://img.shields.io/badge/Trinity-Translator-blue?style=plastic&logo=weblate)
 ](https://mirror.git.trinitydesktop.org/weblate/user/toad114514/) <br>
 ![GitHub User's stars](https://img.shields.io/github/stars/toad114514)
 ![GitHub followers](https://img.shields.io/github/followers/toad114514)
