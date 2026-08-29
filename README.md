@@ -33,6 +33,11 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
  <br/><i>来玩贪吃蛇罢(喜</i>
 </div>
 <details>
+   <summary>笔记本。</summary>
+   <p>诶我草kde真好玩。</p>
+   <img src="https://raw.githubusercontent.com/Toad114514/Toad114514/refs/heads/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20260830_023415.png" alt="pc."/>
+</details>
+<details>
    <summary>Termux neofetch from oppoa5</summary>
    <img src="https://raw.github.com/Toad114514/Toad114514/refs/heads/main/img/Screenshot_2025-02-08-16-54-25-13.jpg" alt="neofetch"/>
 </details>
