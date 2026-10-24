@@ -1,7 +1,9 @@
-## 欢迎 \ Welcome
 <div align="center">
+ 
+## 欢迎 \ Welcome
 
-*Toad114514's GitHub stats*  <br>
+***I want a toad and i become a toad*** <br>
+*(这里应该有一个小图片但是我没准备)*  <br>
 [![githubs](https://img.shields.io/badge/Github-black?logo=github&style=flat-square)](https://github.com/toad114514) [![Gitee](https://img.shields.io/badge/Gitee-171717?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/toadstool) [![Bilibili](https://img.shields.io/badge/Bilibili-pink?style=plastic&logo=bilibili)
  ](https://space.bilibili.com/3494381151586530) [![TDE Translator](https://img.shields.io/badge/Trinity-Translator-blue?style=plastic&logo=weblate)
 ](https://mirror.git.trinitydesktop.org/weblate/user/toad114514/) <br>
@@ -48,5 +50,5 @@ toad这个名字来自超级马里奥制造2中的四大天王之一大聪明小
 </details>
 <details>
    <summary>最近常玩游戏</summary>
-   <b>sm64coopdx是。</b>
+   <b>半条命2牛逼</b>
 </details>
